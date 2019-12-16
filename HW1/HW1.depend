@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1573146540 source:c:\users\abdul mannan\desktop\cs201\hw1\src\simplefc.cpp
+	"SimpleFC.h"
+	<string>
+	<iostream>
+
+1572811341 c:\users\abdul mannan\desktop\cs201\hw1\include\simplefc.h
+	<string>
+	<iostream>
+	"SimpleFilm.h"
+
+1572874603 c:\users\abdul mannan\desktop\cs201\hw1\include\simplefilm.h
+	<string>
+	<iostream>
+
+1572874526 source:c:\users\abdul mannan\desktop\cs201\hw1\src\simplefilm.cpp
+	"SimpleFilm.h"
+	<string>
+	<iostream>
+
+1573766262 source:c:\users\abdul mannan\desktop\cs201\hw1\main.cpp
+	"Film.h"
+	"FC.h"
+
+1573211489 source:c:\users\abdul mannan\desktop\cs201\hw1\src\actor.cpp
+	"Actor.h"
+	<string>
+	<iostream>
+
+1573158476 c:\users\abdul mannan\desktop\cs201\hw1\include\actor.h
+	<string>
+	<iostream>
+
+1573214779 source:c:\users\abdul mannan\desktop\cs201\hw1\src\film.cpp
+	"Film.h"
+	<string>
+	<iostream>
+
+1573148501 c:\users\abdul mannan\desktop\cs201\hw1\include\film.h
+	"Actor.h"
+	<string>
+	<iostream>
+
+1573215730 source:c:\users\abdul mannan\desktop\cs201\hw1\src\fc.cpp
+	"FC.h"
+	<string>
+	<iostream>
+
+1573153907 c:\users\abdul mannan\desktop\cs201\hw1\include\fc.h
+	"Film.h"
+	<string>
+	<iostream>
+
